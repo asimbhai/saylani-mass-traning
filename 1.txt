@@ -1,0 +1,2 @@
+Text in 1.txt
+#edit 1 before commit after adding 1.txt
