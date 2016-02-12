@@ -1,1 +1,3 @@
 text in 3.txt
+  "in master" this branch text in this file after creating a new branch for work of 3.txt file>
+#text in 3.txt in branch1
