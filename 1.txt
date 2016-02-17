@@ -1,2 +1,2 @@
-Text in 1.txt
+text has been mdfd in text has been mdifideText in 1.txt
 #edit 1 before commit after adding 1.txt
