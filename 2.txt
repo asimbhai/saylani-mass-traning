@@ -3,3 +3,4 @@ text in 2.txt
 =======
 #text in 2.txt
 >>>>>>> branch1
+new line added in 2.txt
